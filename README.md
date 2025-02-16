@@ -5,7 +5,6 @@ Project Overview:
 The Hotel Billing System is a Java-based application designed to streamline restaurant and hotel billing processes. It allows restaurant owners to manage menu items, take customer orders, generate invoices, and process payments efficiently.
 
 Features:
-
 i)Restaurant Management: Add and manage restaurant details including name, address, and contact number.
 
 ii)Menu Management: Maintain a list of menu items with item ID, name, description, and price.
@@ -20,7 +19,6 @@ vi)Payment Processing: Process payments via different methods (Cash, Card, Onlin
 
 
 Technologies Used:
-
 i)Programming Language: Java
 
 ii)Framework/IDE: Eclipse
@@ -29,7 +27,6 @@ iii)Libraries: Java Collections, Java Time API
 
 
 How to Run the Project:
-
 Clone the repository:
 git clone https://github.com/Bharath07T/hotel-billing-system.git
 
@@ -54,7 +51,6 @@ Usage Example:
 
 
 Future Enhancements:
-
 i)Implement a graphical user interface (GUI) for better user experience.
 
 ii)Add a database to store customer orders and transaction records.
@@ -63,14 +59,12 @@ iii)Include discount and tax calculations in invoices.
 
 
 Author:
-
 Bharath T
 
 GitHub: Bharath07T
 
 
 License:
-
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
