@@ -5,17 +5,17 @@ The Library Management System is a console-based Java application that helps aut
 
 Features:
 
-i)Restaurant Management: Add and manage restaurant details including name, address, and contact number.
+i)Library Information Management: Add and manage library details including name, location, and contact information.
 
-ii)Menu Management: Maintain a list of menu items with item ID, name, description, and price.
+ii) Book Management: Maintain a list of books with Book ID, title, author, and available stock.
 
-iii)Customer Management: Store and retrieve customer details.
+iii) Member Management: Store and retrieve member details such as Member ID and name.
 
-iv)Order Management: Allow customers to place orders and calculate the total bill.
+iv) Borrowing System: Allow members to borrow books and automatically update stock and issue dates.
 
-v)Invoice Generation: Generate invoices with details like order ID, customer name, order date, and total amount.
+v) Return & Fine Calculation: Handle book returns, calculate overdue days, and apply fine if applicable.
 
-vi)Payment Processing: Process payments via different methods (Cash, Card, Online) and track payment status.
+vi) Record Viewing: Display all registered members and available books with complete details.
 
 
 Technologies Used:
@@ -41,6 +41,7 @@ Usage Example:
 
 
 <img width="1071" height="607" alt="image" src="https://github.com/user-attachments/assets/c74cebff-6ee9-4d18-a557-c1a5c5a08c09" />
+
 
 
 Future Enhancements:
