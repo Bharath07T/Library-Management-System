@@ -1,8 +1,7 @@
-Hotel Billing System
-
-Project Overview:
-
-The Hotel Billing System is a Java-based application designed to streamline restaurant and hotel billing processes. It allows restaurant owners to manage menu items, take customer orders, generate invoices, and process payments efficiently.
+Library Management System:
+ 
+📌 Project Overview:
+The Library Management System is a console-based Java application that helps automate library operations such as managing books, members, borrowing and returning books, and calculating overdue fines. This system is designed to simulate real-life library workflows using object-oriented programming principles.
 
 Features:
 
@@ -31,35 +30,26 @@ iii)Libraries: Java Collections, Java Time API
 How to Run the Project:
 
 Clone the repository:
-git clone https://github.com/Bharath07T/hotel-billing-system.git
+git clone https://github.com/Bharath07T/LibraryManagementSystem.git
 
 Open the project in Eclipse or any Java IDE.
 
-Compile and run the HotelBillingSystem.java file.
-
-The system will display menu items, process orders, generate invoices, and handle payments.
-
-
-Project Structure:
-
-
-![image](https://github.com/user-attachments/assets/9945e583-0972-4e43-b467-a69922f481cb)
+Compile and run the LibraryManagementSystem.java file.
 
 
 Usage Example:
 
 
-![image](https://github.com/user-attachments/assets/4844e1f1-2e85-4ae8-af00-e0069a43cb12)
-
+<img width="1071" height="607" alt="image" src="https://github.com/user-attachments/assets/c74cebff-6ee9-4d18-a557-c1a5c5a08c09" />
 
 
 Future Enhancements:
 
 i)Implement a graphical user interface (GUI) for better user experience.
 
-ii)Add a database to store customer orders and transaction records.
+ii)Include book categories and search by filters
 
-iii)Include discount and tax calculations in invoices.
+iii)Export fine receipts or borrowing logs to PDF
 
 
 Author:
